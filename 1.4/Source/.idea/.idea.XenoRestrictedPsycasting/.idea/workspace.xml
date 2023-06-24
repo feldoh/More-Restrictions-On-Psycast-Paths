@@ -7,24 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3549498-6cd2-4679-80f8-11e4a4e58744" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Assemblies/XenoRestrictedPsycasting.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Patches/XenoRestrictedPsycasting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Patches/XenoRestrictedPsycasting.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.XenoRestrictedPsycasting/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.XenoRestrictedPsycasting/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.XenoRestrictedPsycasting/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/ExtraPsycastRestriction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/ExtraPsycastRestriction.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/RequiresPawnMatching.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/RequiresPawnMatching.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/RequiresPawnWithGene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/RequiresPawnWithGene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/RequiresPawnWithXenoType.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/RequiresPawnWithXenoType.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/Settings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/Settings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/XenoRestrictedPsycasting.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/XenoRestrictedPsycasting.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XenoRestrictedPsycasting/XenoRestrictedPsycasting.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/MoreRestrictionsOnPsycastPaths/MoreRestrictionsOnPsycastPaths.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../About/About-Debug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../About/About-Debug.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../About/About-Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../About/About-Release.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3549498-6cd2-4679-80f8-11e4a4e58744" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687638485325</updated>
-      <workItem from="1687638486432" duration="4551000" />
+      <workItem from="1687638486432" duration="4744000" />
     </task>
     <servers />
   </component>
