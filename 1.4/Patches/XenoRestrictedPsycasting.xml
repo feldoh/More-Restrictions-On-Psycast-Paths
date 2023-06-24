@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>Defs/VanillaPsycastsExpanded.PsycasterPathDef[defName="VPE_Empath"]</xpath>
+		<value>
+			<li Class="XenoRestrictedPsycasting.RequiresPawnWithGene">
+				<genes>
+					<li>ToxicEnvironmentResistance_Partial</li>
+					<li>ToxicEnvironmentResistance_Total</li>
+				</genes>
+			</li>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationAddModExtension">
+		<xpath>Defs/VanillaPsycastsExpanded.PsycasterPathDef[defName="VPE_Skipmaster"]</xpath>
+		<value>
+			<li Class="XenoRestrictedPsycasting.RequiresPawnWithXenoType">
+				<xenoTypes>
+					<li>Genie</li>
+				</xenoTypes>
+			</li>
+		</value>
+	</Operation>
+</Patch>
