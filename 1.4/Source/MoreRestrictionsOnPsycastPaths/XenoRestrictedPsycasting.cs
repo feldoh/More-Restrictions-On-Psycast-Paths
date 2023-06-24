@@ -1,15 +1,13 @@
-﻿using System.Reflection;
-using System.Linq;
-using Verse;
-using RimWorld;
+﻿using HarmonyLib;
 using UnityEngine;
-using HarmonyLib;
+using Verse;
 
-namespace XenoRestrictedPsycasting
+namespace MoreRestrictionsOnPsycastPaths
 {
 	public class Mod : Verse.Mod
 	{
-	public static Settings settings;
+		public static Settings settings;
+
 		public Mod(ModContentPack content) : base(content)
 		{
 			// initialize settings
@@ -19,7 +17,7 @@ namespace XenoRestrictedPsycasting
 			Harmony.DEBUG = true;
 #endif
 
-			Harmony harmony = new Harmony("Taggerung.rimworld.XenoRestrictedPsycasting.main");	
+			Harmony harmony = new Harmony("Taggerung.rimworld.MoreRestrictionsOnPsycastPaths.main");
 			harmony.PatchAll();
 		}
 
@@ -31,7 +29,7 @@ namespace XenoRestrictedPsycasting
 		//
 		// public override string SettingsCategory()
 		// {
-		// 	return "XenoRestrictedPsycasting";
+		// 	return "MoreRestrictionsOnPsycastPaths";
 		// }
 	}
 }

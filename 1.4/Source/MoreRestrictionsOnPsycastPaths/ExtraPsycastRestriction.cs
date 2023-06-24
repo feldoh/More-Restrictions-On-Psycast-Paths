@@ -3,7 +3,7 @@ using HarmonyLib;
 using VanillaPsycastsExpanded;
 using Verse;
 
-namespace XenoRestrictedPsycasting
+namespace MoreRestrictionsOnPsycastPaths
 {
 	[HarmonyPatch(typeof(PsycasterPathDef), nameof(PsycasterPathDef.CanPawnUnlock))]
 	public static class ExtraPsycastRestrictions

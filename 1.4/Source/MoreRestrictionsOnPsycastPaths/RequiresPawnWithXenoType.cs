@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using RimWorld;
 using Verse;
 
-namespace XenoRestrictedPsycasting;
+namespace MoreRestrictionsOnPsycastPaths;
 
 public class RequiresPawnWithXenoType : RequiresPawnMatching
 {

@@ -7,8 +7,8 @@
     <ProjectGuid>{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XenoRestrictedPsycasting</RootNamespace>
-    <AssemblyName>XenoRestrictedPsycasting</AssemblyName>
+    <RootNamespace>MoreRestrictionsOnPsycastPaths</RootNamespace>
+    <AssemblyName>MoreRestrictionsOnPsycastPaths</AssemblyName>
     <LangVersion>latest</LangVersion>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <TargetFramework>net4.8</TargetFramework>
@@ -29,7 +29,7 @@
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>none</DebugType>
     <Optimize>true</Optimize>
-    <OutputPath>..\..\..\XenoRestrictedPsycasting - Release\Assemblies\</OutputPath>
+    <OutputPath>..\..\..\MoreRestrictionsOnPsycastPaths - Release\Assemblies\</OutputPath>
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>

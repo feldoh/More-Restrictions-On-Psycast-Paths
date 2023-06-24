@@ -1,6 +1,6 @@
 ﻿using Verse;
 
-namespace XenoRestrictedPsycasting
+namespace MoreRestrictionsOnPsycastPaths
 {
 	public abstract class RequiresPawnMatching : DefModExtension
 	{

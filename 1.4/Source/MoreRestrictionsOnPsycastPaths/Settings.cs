@@ -4,7 +4,7 @@ using UnityEngine;
 using Verse;
 using RimWorld;
 
-namespace XenoRestrictedPsycasting
+namespace MoreRestrictionsOnPsycastPaths
 {
 	public class Settings : ModSettings
 	{

@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using Verse;
 
-namespace XenoRestrictedPsycasting;
+namespace MoreRestrictionsOnPsycastPaths;
 
 public class RequiresPawnWithGene : RequiresPawnMatching
 {
